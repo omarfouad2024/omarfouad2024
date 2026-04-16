@@ -90,8 +90,8 @@ https://github.com/omarfouad2024/E_Book_flutter_project
 
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/omar-mohamed-fouad)
-- 💻 GitHub: https://github.com/omarfouad2024  
-- 📧 Email: omar.mohamed.0523094@gmail.com  
+- 💻 [GitHub](https://github.com/omarfouad2024) 
+- 📧 [Email](omar.mohamed.0523094@gmail.com)  
 
 ---
 

@@ -76,15 +76,6 @@ https://github.com/omarfouad2024/E_Book_flutter_project
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfouad2024&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🖼️ Screenshots
-
-<p align="center">
-  <img src="images/home.png" width="250">
-  <img src="images/details.png" width="250">
-  <img src="images/reader.png" width="250">
-</p>
 
 ---
 
@@ -93,6 +84,3 @@ https://github.com/omarfouad2024/E_Book_flutter_project
 - 💻 [GitHub](https://github.com/omarfouad2024) 
 - 📧 [Email](omar.mohamed.0523094@gmail.com)  
 
----
-
-⭐ From **Omar Fouad**

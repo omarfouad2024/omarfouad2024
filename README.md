@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Omar Fouad</h1>
+<h1 align="center">Hi 👋, I'm Omar Fouad</h1>
 <h3 align="center">💡 Flutter Developer | Mobile App Developer</h3>
 
 <p align="center">
@@ -31,17 +31,30 @@ To build high-quality mobile applications that solve real-world problems while i
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Dart, JavaScript, HTML, CSS
+- Dart  
+- JavaScript  
+- HTML  
+- CSS  
 
 ### ⚙️ Frameworks & Technologies
-- Flutter, Firebase, RESTful APIs
+- Flutter  
+- Firebase  
+- RESTful APIs  
 
 ### 🧰 Tools
-- Git, GitHub, Visual Studio Code, Android Studio, Figma
-- 
-🎯 Currently Learning
-🚀 Advanced Flutter (architecture, performance, best practices)
-🌱 Spring Boot for backend development
+- Git  
+- GitHub  
+- Visual Studio Code  
+- Android Studio  
+- Figma  
+
+---
+
+## 🎯 Currently Learning
+- 🚀 Advanced Flutter (architecture, performance, best practices)  
+- 🌱 Spring Boot for backend development  
+
+---
 
 ## 📌 Featured Project
 
@@ -71,11 +84,9 @@ https://github.com/omarfouad2024/E_Book_flutter_project
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfouad2024&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-mohamed-fouad)
-- 💻 [GitHub](https://github.com/omarfouad2024) 
-- 📧 [Email](omar.mohamed.0523094@gmail.com)  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-mohamed-fouad)  
+- 💻 [GitHub](https://github.com/omarfouad2024)  
+- 📧 Email: omar.mohamed.0523094@gmail.com  

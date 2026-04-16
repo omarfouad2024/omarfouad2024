@@ -38,15 +38,10 @@ To build high-quality mobile applications that solve real-world problems while i
 
 ### 🧰 Tools
 - Git, GitHub, Visual Studio Code, Android Studio, Figma
-
-### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)  
-- Clean Architecture  
-- State Management  
-- Responsive UI Design  
-- Performance Optimization  
-
----
+- 
+🎯 Currently Learning
+🚀 Advanced Flutter (architecture, performance, best practices)
+🌱 Spring Boot for backend development
 
 ## 📌 Featured Project
 

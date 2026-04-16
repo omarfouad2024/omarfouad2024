@@ -76,18 +76,16 @@ https://github.com/omarfouad2024/E_Book_flutter_project
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarfouad2024&layout=compact&theme=tokyonight" />
 </p>
 
----
 ## 📫 Contact Me
 
 <p align="left">
   <a href="mailto:omar.mohamed.0523094@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  لاق
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/omar-mohamed-fouad">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
- 
 </p>

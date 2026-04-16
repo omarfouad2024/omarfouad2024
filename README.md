@@ -28,25 +28,17 @@ To build high-quality mobile applications that solve real-world problems while i
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
-- Dart  
-- JavaScript  
-- HTML  
-- CSS  
+### 💻 Programming & Development
 
-### ⚙️ Frameworks & Technologies
-- Flutter  
-- Firebase  
-- RESTful APIs  
-
-### 🧰 Tools
-- Git  
-- GitHub  
-- Visual Studio Code  
-- Android Studio  
-- Figma  
+| Area               | Stack                                                                 |
+|--------------------|----------------------------------------------------------------------|
+| **Primary Stack**   | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| **Languages**       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Backend & APIs**  | REST APIs, Firebase                                                  |
+| **AI & Data Science** | Machine Learning, OpenCV                                           |
+| **Education**       | Curriculum Development, Mentorship                                  |
 
 ---
 
